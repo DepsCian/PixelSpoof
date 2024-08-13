@@ -1,7 +1,7 @@
 # PixelSpoof
 
 ## What is PixelSpoof?
-PixelSpoof is a module for LSPosed that lets you spoof all device-specific properties of your device, selectively for individual apps, to a high end Pixel device (Currently Pixel 8 Pro)
+PixelSpoof is a module for LSPosed that lets you spoof all device-specific properties of your device, selectively for individual apps, to a high end Pixel device (Currently Pixel 9 Pro)
 
 ## How to install
 ### Prerequisites
